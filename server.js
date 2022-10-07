@@ -16,7 +16,8 @@ app.use(require('./routes'));
 
 //MONGO DB NAME
 // tells mongoose which database to connect to 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/18-social-network.18-social-network', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/18-social-network', 
+{
   useFindAndModify: false,
   useNewUrlParser: true,
   useUnifiedTopology: true
