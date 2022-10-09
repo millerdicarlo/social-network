@@ -40,7 +40,7 @@ After installing, run the program by typing the following in the command line:
 ### You can view the deployed application on Heroku at: https://serene-falls-47597.herokuapp.com/
 
 ### Screenshot of Deployed Application:
-![Screenshot](./client/public/Rent-A-Party.png)
+![Screenshot]()
 
 ## More Information
 This application was created by:
